@@ -10,3 +10,4 @@ After the 3rd Breakdown of popOS after Updates im going back to Windows so this 
 - > choco install vscode -y
 - > choco install git -y
 - > choco install github-desktop -y
+- > choco install simplewall -y
